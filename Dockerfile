@@ -1,4 +1,4 @@
-FROM ruby:alpine3.18.3
+FROM ruby:alpine3.18
 
 ARG JEKYLL_VERSION=4.3.2
 
