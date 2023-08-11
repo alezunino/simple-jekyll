@@ -18,6 +18,9 @@ RUN apk --no-cache add \
   tzdata \
   su-exec \
   libressl \
+  imagemagick \
+  imagemagick-dev \
+  imagemagick-libs \
   shadow
 
 # Update gems
